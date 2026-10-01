@@ -1,0 +1,5 @@
+Coloca en esta carpeta tu PDF con las respuestas escritas de los problemas
+1a, 2a, 3a, 4 y 5.
+
+Puedes escanear o exportar el trabajo que ya resolviste y guardarlo, por ejemplo,
+como respuestas.pdf. Este archivo de instrucciones no sustituye tus respuestas.

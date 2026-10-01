@@ -1,0 +1,8 @@
+﻿n,tiempo_segundos,estado
+1,0.000006800001,Completado
+10,0.000013099998,Completado
+100,0.000401399997,Completado
+1000,0.059099700000,Completado
+10000,,Interrumpido por el usuario
+100000,,Pendiente
+1000000,,Pendiente

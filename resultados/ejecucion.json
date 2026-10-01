@@ -1,0 +1,24 @@
+{
+  "fecha_utc": "2026-10-01T22:51:48.500818+00:00",
+  "python": "3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)]",
+  "sistema": "Windows-11-10.0.26200-SP0",
+  "matplotlib": "3.10.8",
+  "problemas": [
+    1,
+    2,
+    3
+  ],
+  "valores_n": [
+    1,
+    10,
+    100,
+    1000,
+    10000,
+    100000,
+    1000000
+  ],
+  "limite_segundos": 0,
+  "profiling": "cProfile",
+  "reloj": "time.perf_counter",
+  "salida_programas": "dispositivo nulo"
+}
